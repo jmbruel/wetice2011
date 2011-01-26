@@ -1,9 +1,9 @@
-# Papier sur les environnements de modélisation collaboratifs
+# Papier sur les environnements de modelisation collaboratifs
 
-This files are LaTeX files for the dev. of the [http://www.sel.uniroma2.it/comets11/](WETICE'2011)	 paper.
-Initiated by [mailto:bruel@irit.fr](JMB).
+This files are LaTeX files for the dev. of the [WETICE'2011](http://www.sel.uniroma2.it/comets11/)	 paper.
+Initiated by [JMB](mailto:bruel@irit.fr).
 
-Usefull [http://git-scm.com/](git) command:
+Usefull [git](http://git-scm.com/) command:
 
 # start by copying a local copy of the repository
 git clone git@github.com:jmbruel/wetice2011.git
